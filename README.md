@@ -192,7 +192,7 @@ Open the Jupyter notebooks in `notebooks/` and run them in order:
 
 **Yash Singh Thakur**
 - MS in Information Systems, Syracuse University (May 2026)
-- 📧 ysthakur@syr.edu
+- 📧 ysingh02@syr.edu
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yashsingh02)
 - 💻 [GitHub](https://github.com/yashsingh05)
 - 🌐 [Portfolio](https://yashsingh05.github.io/yashsingh.github.io/)
@@ -200,5 +200,6 @@ Open the Jupyter notebooks in `notebooks/` and run them in order:
 ---
 
 ## 📜 License
+
 
 This project is for educational and portfolio purposes. Data collected from public APIs and publicly available sources.
