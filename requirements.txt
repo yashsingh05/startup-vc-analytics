@@ -1,0 +1,7 @@
+streamlit
+plotly
+numpy
+scikit-learn
+requests
+fuzzywuzzy
+python-Levenshtein
