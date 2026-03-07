@@ -1,0 +1,148 @@
+{
+  "k": 3,
+  "cluster_profiles": {
+    "STABLE": {
+      "sectors": [
+        "Industrials",
+        "Consumer",
+        "Real Estate and Construction",
+        "Healthcare",
+        "Fintech",
+        "Education",
+        "Government"
+      ],
+      "means": {
+        "Total Companies": 399.42857142857144,
+        "Success Rate %": 69.33720995619107,
+        "Failure Rate %": 17.93643002918251,
+        "Acquisition Rate %": 12.247316478285995,
+        "Avg Team Size": 54.47923610808858,
+        "GitHub Adoption %": 0.2941005244322496,
+        "Avg GitHub Stars": 413.19387755102036,
+        "PH Presence %": 3.9230996218970944,
+        "Avg PH Votes": 573.1840136054423,
+        "Hiring Rate %": 23.72411814512048,
+        "Recent Batch %": 26.156765772460066,
+        "AI Overlap %": 23.152208220075856,
+        "Avg Visibility": 1.0210313125084614,
+        "Avg News Mentions": 0.07070592861722784
+      }
+    },
+    "RISING/HOT": {
+      "sectors": [
+        "B2B"
+      ],
+      "means": {
+        "Total Companies": 2876.0,
+        "Success Rate %": 71.48817802503477,
+        "Failure Rate %": 14.673157162726008,
+        "Acquisition Rate %": 13.595271210013909,
+        "Avg Team Size": 38.76831468783833,
+        "GitHub Adoption %": 5.111265646731571,
+        "Avg GitHub Stars": 3000.278911564626,
+        "PH Presence %": 6.954102920723226,
+        "Avg PH Votes": 580.44,
+        "Hiring Rate %": 28.616133518776078,
+        "Recent Batch %": 42.280945757997216,
+        "AI Overlap %": 43.70653685674548,
+        "Avg Visibility": 1.3583070236439505,
+        "Avg News Mentions": 0.04415855354659249
+      }
+    },
+    "DECLINING": {
+      "sectors": [
+        "Unspecified"
+      ],
+      "means": {
+        "Total Companies": 18.0,
+        "Success Rate %": 94.44444444444444,
+        "Failure Rate %": 5.555555555555555,
+        "Acquisition Rate %": 0.0,
+        "Avg Team Size": 42.6875,
+        "GitHub Adoption %": 0.0,
+        "Avg GitHub Stars": 0.0,
+        "PH Presence %": 0.0,
+        "Avg PH Votes": 0.0,
+        "Hiring Rate %": 5.555555555555555,
+        "Recent Batch %": 0.0,
+        "AI Overlap %": 5.555555555555555,
+        "Avg Visibility": 0.16666666666666666,
+        "Avg News Mentions": 0.0
+      }
+    }
+  },
+  "sector_scores": [
+    {
+      "sector": "Industrials",
+      "cluster": "STABLE",
+      "total_companies": 349,
+      "success_rate": 77.9,
+      "hiring_rate": 26.6,
+      "recent_pct": 35.0
+    },
+    {
+      "sector": "Consumer",
+      "cluster": "STABLE",
+      "total_companies": 866,
+      "success_rate": 47.2,
+      "hiring_rate": 13.9,
+      "recent_pct": 16.5
+    },
+    {
+      "sector": "Real Estate and Construction",
+      "cluster": "STABLE",
+      "total_companies": 153,
+      "success_rate": 63.4,
+      "hiring_rate": 22.9,
+      "recent_pct": 24.2
+    },
+    {
+      "sector": "B2B",
+      "cluster": "RISING/HOT",
+      "total_companies": 2876,
+      "success_rate": 71.5,
+      "hiring_rate": 28.6,
+      "recent_pct": 42.3
+    },
+    {
+      "sector": "Healthcare",
+      "cluster": "STABLE",
+      "total_companies": 656,
+      "success_rate": 77.9,
+      "hiring_rate": 25.0,
+      "recent_pct": 25.5
+    },
+    {
+      "sector": "Fintech",
+      "cluster": "STABLE",
+      "total_companies": 607,
+      "success_rate": 74.3,
+      "hiring_rate": 26.7,
+      "recent_pct": 21.1
+    },
+    {
+      "sector": "Education",
+      "cluster": "STABLE",
+      "total_companies": 125,
+      "success_rate": 69.6,
+      "hiring_rate": 16.0,
+      "recent_pct": 18.4
+    },
+    {
+      "sector": "Unspecified",
+      "cluster": "DECLINING",
+      "total_companies": 18,
+      "success_rate": 94.4,
+      "hiring_rate": 5.6,
+      "recent_pct": 0.0
+    },
+    {
+      "sector": "Government",
+      "cluster": "STABLE",
+      "total_companies": 40,
+      "success_rate": 75.0,
+      "hiring_rate": 35.0,
+      "recent_pct": 42.5
+    }
+  ]
+}

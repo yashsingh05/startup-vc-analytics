@@ -1,0 +1,59 @@
+{
+  "total_founders": 10803,
+  "companies_analyzed": 5621,
+  "founder_count_stats": {
+    "1": {
+      "total": 1624,
+      "success": 1320
+    },
+    "3": {
+      "total": 847,
+      "success": 684
+    },
+    "2": {
+      "total": 2991,
+      "success": 2511
+    },
+    "4": {
+      "total": 142,
+      "success": 107
+    },
+    "5+": {
+      "total": 17,
+      "success": 14
+    }
+  },
+  "tech_founder_impact": {
+    "with_tech": 77.8,
+    "without_tech": 83.0,
+    "impact": -5.2
+  },
+  "archetypes": {
+    "Solo Technical": {
+      "total": 59,
+      "success_rate": 81.35593220338984
+    },
+    "Solo Non-Technical": {
+      "total": 1565,
+      "success_rate": 81.27795527156549
+    },
+    "Duo with Tech": {
+      "total": 344,
+      "success_rate": 79.94186046511628
+    },
+    "Duo no Tech": {
+      "total": 2647,
+      "success_rate": 84.47298828862864
+    },
+    "Team 3+ with Tech": {
+      "total": 197,
+      "success_rate": 73.09644670050761
+    },
+    "Team 3+ no Tech": {
+      "total": 809,
+      "success_rate": 81.70580964153275
+    }
+  },
+  "model_accuracy": 0.6648888888888889,
+  "model_f1": 0.7727546714888487
+}

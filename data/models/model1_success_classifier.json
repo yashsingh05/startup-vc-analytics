@@ -1,0 +1,51 @@
+{
+  "model_name": "XGBoost",
+  "accuracy": 0.8145869947275922,
+  "f1_score": 0.8811267605633802,
+  "auc_roc": 0.8652203231441511,
+  "feature_importances": {
+    "batch_year_int": 0.038418903946876526,
+    "company_age_years": 0.030605489388108253,
+    "is_recent_batch": 0.011920803226530552,
+    "batch_season_num": 0.010699857957661152,
+    "is_b2b_flag": 0.014597039669752121,
+    "is_b2c_flag": 0.030877748504281044,
+    "is_ai": 0.010231505148112774,
+    "is_saas": 0.014414199627935886,
+    "is_fintech": 0.011538175866007805,
+    "is_healthcare": 0.01681375317275524,
+    "is_opensource": 0.011511827819049358,
+    "team_size": 0.029913820326328278,
+    "has_team_data": 0.01404683105647564,
+    "has_github": 0.011490331962704659,
+    "has_producthunt": 0.006440658122301102,
+    "has_sec_filing": 0.10929568856954575,
+    "has_news_mention": 0.021802620962262154,
+    "total_github_stars": 0.0,
+    "ph_votes": 0.018501080572605133,
+    "news_mention_count": 0.09070093184709549,
+    "num_sources": 0.02451520785689354,
+    "visibility_score": 0.11410147696733475,
+    "description_length": 0.012069916352629662,
+    "description_word_count": 0.011449801735579967,
+    "has_description": 0.0,
+    "is_us": 0.012246344238519669,
+    "is_sf_bay": 0.0,
+    "is_nyc": 0.0,
+    "num_tags": 0.013049324974417686,
+    "is_hiring": 0.30874666571617126,
+    "top_company": 0.0
+  },
+  "confusion_matrix": [
+    [
+      145,
+      56
+    ],
+    [
+      155,
+      782
+    ]
+  ],
+  "train_size": 4552,
+  "test_size": 1138
+}

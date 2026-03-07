@@ -1,0 +1,30 @@
+{
+  "accuracy": 0.9138840070298769,
+  "feature_importances": {
+    "batch_year_int": 0.013282261767950063,
+    "company_age_years": 0.012822625461302539,
+    "is_recent_batch": 0.0008439741729537895,
+    "is_b2b_flag": 0.0025288087895110013,
+    "is_b2c_flag": 0.002845611381709485,
+    "is_ai": 0.003885497587165439,
+    "is_saas": 0.005526749252032124,
+    "is_fintech": 0.003119697253382543,
+    "is_healthcare": 0.002990405069470321,
+    "is_opensource": 0.018008333207297677,
+    "team_size": 0.031137984333012084,
+    "has_team_data": 0.00043392728110952516,
+    "is_us": 0.003082299774655703,
+    "is_sf_bay": 0.0,
+    "is_nyc": 0.0,
+    "num_tags": 0.009354428925997275,
+    "description_word_count": 0.0531884201862047,
+    "has_description": 0.0005820424526823265,
+    "is_hiring": 0.7609185347123255,
+    "top_company": 0.07544839839123794
+  },
+  "traction_distribution": {
+    "low": 3820,
+    "medium": 1628,
+    "high": 242
+  }
+}
